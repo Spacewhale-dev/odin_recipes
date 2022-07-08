@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.table {
+    background-color: pink;    
+    font-weight: 500;
+}
+
+.bigHeader {
+    font-size: 68px;
+    font-weight: 800;
+    color: rgb(49, 16, 77);
+    background-color: antiquewhite;
+    padding: 50px;
+    margin-left: -8px;
+    margin-right: -8px;
+    
+}
+
+.smallHeader {
+    font-size: 32px;
+    font-weight: 500;
+    color: #49464d;
+    background-color: #777579;
+    padding: 50px;
+    margin-left: -8px;
+    margin-right: -8px;
+    
+}
+
+p {
+    color: rgb(33, 28, 95);
+}
